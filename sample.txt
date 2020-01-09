@@ -1,0 +1,7 @@
+Profiles:
+1. Analog design
+2. Physical design
+3. Verification
+4. RTL design
+5. Memory design
+6. Testing
