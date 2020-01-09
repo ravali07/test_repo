@@ -5,3 +5,4 @@ Profiles:
 4. RTL design
 5. Memory design
 6. Testing
+7. IP on boarding
