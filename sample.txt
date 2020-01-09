@@ -11,3 +11,6 @@ GProfiles:
 xyzz
 done
 This is updated after SSH
+Languages needed:
+1. Python
+2. Perl
