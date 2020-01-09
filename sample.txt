@@ -6,3 +6,4 @@ Profiles:
 5. Memory design
 6. Testing
 7. IP on boarding
+8. DFT
