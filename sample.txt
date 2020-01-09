@@ -1,4 +1,4 @@
-Profiles:
+GProfiles:
 1. Analog design
 2. Physical design
 3. Verification
@@ -10,3 +10,4 @@ Profiles:
 9. FPGA validation
 xyzz
 done
+This is updated after SSH
